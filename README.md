@@ -2,7 +2,7 @@
 
 **Software Engineer** — Backend Systems · Cloud Infrastructure · Applied AI
 
-I build secure, high-throughput backend systems and the cloud infrastructure that keeps them running. Currently at **Citigroup** in Dallas, TX, working on enterprise-scale financial platforms where correctness, security, and observability are non-negotiable.
+I build secure, high-throughput backend systems and the cloud infrastructure that keeps them running. Currently at Bank Of Oklahoma in Tulsa, OK, working on enterprise-scale financial platforms where correctness, security, and observability are non-negotiable.
 
 ---
 
