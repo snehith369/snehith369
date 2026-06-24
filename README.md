@@ -42,7 +42,7 @@ I build secure, high-throughput backend systems and the cloud infrastructure tha
 
 ---
 
-### 📈 Production impact at Citigroup
+### 📈 Production impact at Bank of Oklahoma
 
 ```
 40% faster deployments    → CI/CD pipeline overhaul (GitHub Actions, Jenkins, JFrog)
